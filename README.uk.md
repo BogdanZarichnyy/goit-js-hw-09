@@ -1,6 +1,3 @@
-# goit-js-hw-09
-ДЗ №9 goit-js-hw-09
-
 **Read in other languages: [Русский](README.md), [Polski](README.pl.md).**
 
 # Parcel template
